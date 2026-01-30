@@ -7,7 +7,7 @@
 
 ### Dia 01
 
-[Lists and Tuples in python](https://cursos.alura.com.br/course/python-collections-listas-e-tuplas/task/52935)
+[Lists and Tuples in python](https://cursos.alura.com.br/course/python-collections-listas-e-tuplas/task/52935) :check:
 
 ### Dia 02
 
