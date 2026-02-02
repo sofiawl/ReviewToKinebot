@@ -49,18 +49,18 @@ PS: Já sabia tudo, só revisei conceitos
 
 ### Terça - 03/02
 
-[](https://cursos.alura.com.br/course/pandas-transformacao-manipulacao-dados)
-[](https://cursos.alura.com.br/course/pandas-limpeza-tratamento-dados)
+[Transformação e manipulação de dados, Pandas](https://cursos.alura.com.br/course/pandas-transformacao-manipulacao-dados)
+[Limpeza e Tratamento de dados, Pandas](https://cursos.alura.com.br/course/pandas-limpeza-tratamento-dados)
 
 ### Quarta - 04/02
 
-[](https://cursos.alura.com.br/course/pln-deep-learning)
-[](https://cursos.alura.com.br/course/treinando-rede-neural-pytorch)  
+[Pln Deep Learning](https://cursos.alura.com.br/course/pln-deep-learning)
+[Treinamento Rede Neural Pytorch](https://cursos.alura.com.br/course/treinando-rede-neural-pytorch)  
 
 ### Quinta - 05/02
 
-[](https://cursos.alura.com.br/course/cnn-redes-neurais-convolucionais-deep-learning-pytorch)  
-[](https://cursos.alura.com.br/course/rnn-redes-neurais-recorrentes-deep-learning-pytorch)  
+[CNN Deep Learning Pytorch](https://cursos.alura.com.br/course/cnn-redes-neurais-convolucionais-deep-learning-pytorch)  
+[RNN Deep Learning Pytorch](https://cursos.alura.com.br/course/rnn-redes-neurais-recorrentes-deep-learning-pytorch)  
 
 ### Sexta - 06/02
 
