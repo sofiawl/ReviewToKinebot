@@ -41,64 +41,30 @@ PS: Já sabia tudo, só revisei conceitos
     - Atributos privados: `self._saldo`
     - Atributos públicos: `self.saldo`
 
-### Dia 03
+## Intensivo Semanal
+
+### Segunda - 02/02
 
 [IA e Data Science](https://cursos.alura.com.br/course/python-ias-produtividade-data-science)
 
----
-
-## Pandas
-
-### Dia 04
-
-[](https://cursos.alura.com.br/course/pandas-conhecendo-biblioteca)
-
-### Dia 05
+### Terça - 03/02
 
 [](https://cursos.alura.com.br/course/pandas-transformacao-manipulacao-dados)
-
-### Dia 06
-
 [](https://cursos.alura.com.br/course/pandas-limpeza-tratamento-dados)
 
----
-
-## PyTorch
-
-### Dia 07
+### Quarta - 04/02
 
 [](https://cursos.alura.com.br/course/pln-deep-learning)
-
-### Dia 08
-
 [](https://cursos.alura.com.br/course/treinando-rede-neural-pytorch)  
 
-### Dia 09
+### Quinta - 05/02
 
 [](https://cursos.alura.com.br/course/cnn-redes-neurais-convolucionais-deep-learning-pytorch)  
-
-### Dia 10
-
 [](https://cursos.alura.com.br/course/rnn-redes-neurais-recorrentes-deep-learning-pytorch)  
 
-### Dia 11
+### Sexta - 06/02
 
-[](https://cursos.alura.com.br/course/pytorch-transformers)  
-
----
-
-## Scikit-learn
-
-- *(a definir)*
-
-## Se sobrar tempo  
-
-## OpenCV
-
-- *(a definir)*
-
-[](https://cursos.alura.com.br/course/python-collections-conjuntos-e-dicionarios)
-
-[](https://cursos.alura.com.br/course/python-tdd-explorando-testes-unitarios)  
+- Scikit-learn
+- OpenCV
 
 [](https://cursos.alura.com.br/course/python-avance-orientacao-objetos-consuma-api)
