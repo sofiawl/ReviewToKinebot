@@ -45,9 +45,9 @@ PS: Já sabia tudo, só revisei conceitos
 
 ### Segunda - 02/02
 
-[OO avançado](https://cursos.alura.com.br/course/python-avance-orientacao-objetos-consuma-api)
+[OO avançado](https://cursos.alura.com.br/course/python-avance-orientacao-objetos-consuma-api) :check:
 
-[Transformação e manipulação de dados, Pandas](https://cursos.alura.com.br/course/pandas-transformacao-manipulacao-dados)
+[Transformação e manipulação de dados, Pandas](https://cursos.alura.com.br/course/pandas-transformacao-manipulacao-dados) :check:
 
 ### Terça - 03/02
 
